@@ -3,7 +3,7 @@
 
 HttpClient client = new HttpClient();
 
-
+DayOfWeek today = DateTime.Now.DayOfWeek;
 int userId = 1;
 
 
@@ -40,6 +40,7 @@ int weight = pokemon.weight;
 
 Console.WriteLine("The Pokemon with ID " + userId + " is " + name.ToUpper());
 Console.WriteLine("It weighs " + weight + " hectograms, a " + weightCategory.ToString() + " weight!");
+Console.WriteLine("Data Report Ran " + today);
 
 
 public enum WeightCategory
