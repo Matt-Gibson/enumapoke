@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("enumapoke")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16fbe1c5825e36dd9e958b50665cd1044105bc62")]
 [assembly: System.Reflection.AssemblyProductAttribute("enumapoke")]
 [assembly: System.Reflection.AssemblyTitleAttribute("enumapoke")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

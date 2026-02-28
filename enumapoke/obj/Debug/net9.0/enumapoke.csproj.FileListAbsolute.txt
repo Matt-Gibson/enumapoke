@@ -1,0 +1,15 @@
+/Users/matthewgibson/Projects/CsharpProjects/enumapoke/enumapoke/obj/Debug/net9.0/enumapoke.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matthewgibson/Projects/CsharpProjects/enumapoke/enumapoke/obj/Debug/net9.0/enumapoke.AssemblyInfoInputs.cache
+/Users/matthewgibson/Projects/CsharpProjects/enumapoke/enumapoke/obj/Debug/net9.0/enumapoke.AssemblyInfo.cs
+/Users/matthewgibson/Projects/CsharpProjects/enumapoke/enumapoke/obj/Debug/net9.0/enumapoke.csproj.CoreCompileInputs.cache
+/Users/matthewgibson/Projects/CsharpProjects/enumapoke/enumapoke/obj/Debug/net9.0/enumapoke.sourcelink.json
+/Users/matthewgibson/Projects/CsharpProjects/enumapoke/enumapoke/bin/Debug/net9.0/enumapoke
+/Users/matthewgibson/Projects/CsharpProjects/enumapoke/enumapoke/bin/Debug/net9.0/enumapoke.deps.json
+/Users/matthewgibson/Projects/CsharpProjects/enumapoke/enumapoke/bin/Debug/net9.0/enumapoke.runtimeconfig.json
+/Users/matthewgibson/Projects/CsharpProjects/enumapoke/enumapoke/bin/Debug/net9.0/enumapoke.dll
+/Users/matthewgibson/Projects/CsharpProjects/enumapoke/enumapoke/bin/Debug/net9.0/enumapoke.pdb
+/Users/matthewgibson/Projects/CsharpProjects/enumapoke/enumapoke/obj/Debug/net9.0/enumapoke.dll
+/Users/matthewgibson/Projects/CsharpProjects/enumapoke/enumapoke/obj/Debug/net9.0/refint/enumapoke.dll
+/Users/matthewgibson/Projects/CsharpProjects/enumapoke/enumapoke/obj/Debug/net9.0/enumapoke.pdb
+/Users/matthewgibson/Projects/CsharpProjects/enumapoke/enumapoke/obj/Debug/net9.0/enumapoke.genruntimeconfig.cache
+/Users/matthewgibson/Projects/CsharpProjects/enumapoke/enumapoke/obj/Debug/net9.0/ref/enumapoke.dll
