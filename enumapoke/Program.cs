@@ -40,6 +40,15 @@ int weight = pokemon.weight;
 
 Console.WriteLine("The Pokemon with ID " + userId + " is " + name.ToUpper());
 Console.WriteLine("It weighs " + weight + " hectograms, a " + weightCategory.ToString() + " weight!");
+Console.WriteLine("Possible Abilities may include:");
+
+if (pokemon.abilities != null)
+{
+    foreach (var item in pokemon.abilities)
+    {
+        Console.WriteLine("- " + item.ability.name);
+    }
+}
 Console.WriteLine("Data Report Ran " + today);
 
 
@@ -56,4 +65,18 @@ public class Pokemon
 {
     public string name { get; set; }
     public int weight { get; set; }
+    public List<PokemonAbility> abilities { get; set; }
+}
+
+public class PokemonAbility
+{
+    public bool is_hidden { get; set; }
+    public int slot { get; set; }
+    public Ability ability { get; set; }
+}
+
+public class Ability
+{
+    public string name { get; set; }
+    public string url { get; set; }
 }

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "R9nuaMg3KzY=",
+  "dgSpecHash": "l+wRqZ6/rb4=",
   "success": true,
   "projectFilePath": "/Users/matthewgibson/Projects/CsharpProjects/enumapoke/enumapoke/enumapoke.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/matthewgibson/.nuget/packages/microsoft.netcore.app.ref/9.0.13/microsoft.netcore.app.ref.9.0.13.nupkg.sha512",
+    "/Users/matthewgibson/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.13/microsoft.aspnetcore.app.ref.9.0.13.nupkg.sha512",
+    "/Users/matthewgibson/.nuget/packages/microsoft.netcore.app.host.osx-arm64/9.0.13/microsoft.netcore.app.host.osx-arm64.9.0.13.nupkg.sha512"
+  ],
   "logs": []
 }
